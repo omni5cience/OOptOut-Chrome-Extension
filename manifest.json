@@ -1,5 +1,5 @@
 {
-    "name": "Social Auth Disconnect",
+    "name": "Facebook Permission Control",
     "version": "0.1",
     "description": "Makes Facebook permissions optional.",
     "permissions": [
