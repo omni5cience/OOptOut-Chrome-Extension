@@ -3,6 +3,12 @@
     "version": "0.1",
     "description": "Makes Facebook permissions optional.",
 	"homepage_url" : "https://github.com/chadselph/OOptOut-Chrome-Extension",
+	"icons" : {
+		"128" : "checkmark_128.png",
+		"64" : "checkmark_64.png",
+		"48" : "checkmark_48.png",
+		"32" : "checkmark_32.png"
+	},
     "permissions": [
 		"https://www.facebook.com"
     ],
