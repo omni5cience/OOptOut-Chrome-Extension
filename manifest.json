@@ -2,6 +2,7 @@
     "name": "Facebook Permission Control",
     "version": "0.1",
     "description": "Makes Facebook permissions optional.",
+	"homepage_url" : "https://github.com/chadselph/OOptOut-Chrome-Extension",
     "permissions": [
 		"https://www.facebook.com"
     ],
